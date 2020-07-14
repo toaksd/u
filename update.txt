@@ -1,1 +1,1 @@
-1.0.0.0|1.0.0.2|http:www.baidu.com|http://127.0.0.1/www.zip|3F146D7DE891F36FACD2CEA2017720E5
+1.0.0.2|1.0.0.3|http:www.baidu.com|http://150.158.223.111:8080/index.html?upgamebox|8D7C14DF866180CA79EB0EBCE9EFB864
